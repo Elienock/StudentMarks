@@ -1,5 +1,7 @@
 # StudentMarks
-#Problem statement
+# Problem statement
+
+
 Mr. Mokoena is a lecturer at institution ABC. His students have written a test that is out of 110. He has the marks of all the students. Mr Mokoena needs an 
 application that will help him manage the marks of the students. The envisaged application must enable him to do the following:
 1. Store the marks of the students in a text file. Store the student number, mark obtained and the final mark, which is the percentage mark. The application 
@@ -11,5 +13,5 @@ must ensure that a student number is 5-digit long and that the mark obtained is 
 6. Determine and display the highest mark.
 
 
-#To do
+# To do
 Create such an application for Mr. Mokoena.
